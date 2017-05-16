@@ -6,3 +6,5 @@ layout: home
 ---
 What happens if I put something here?  Hmmm, not sure why
 the Posts header is above this, but the "view" of posts is below.
+
+Modify the index page in a junk branch.
