@@ -15,4 +15,4 @@ SIP, so this requires installing gems in someplace other than /usr/bin.  One typ
 ## Testing 2021-05-11
 Need to actually push commits to the repo to trigger now...  The test button is no longer there
 
-## next push test
+## next push test ...  previous one catching all worked
