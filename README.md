@@ -16,3 +16,6 @@ SIP, so this requires installing gems in someplace other than /usr/bin.  One typ
 Need to actually push commits to the repo to trigger now...  The test button is no longer there
 
 ## next push test ...  previous one catching all worked
+
+## Testing 2022-07-05 
+Updating the readme to attempt a webhook trigger
